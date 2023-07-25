@@ -1,5 +1,5 @@
 # target-screening
-Target screening code and results for A-lab.
+MP unsynthesized target screening code and results for A-lab.
 
 See `target_screening.ipynb` for regular results (stable materials only) and annotated description of the code.
 
