@@ -3,7 +3,7 @@ This repository contains the code/scripts/notebooks/data used to generate and fi
 
 ## Notebooks
 
-The `target_screening.ipynb` notebook is a Jupyter notebook containing the code used to identify thermodynamically stable (i.e., "on the hull") candidate materials. These were utilized in the A-lab study.
+The `target_screening.ipynb` notebook is a Jupyter notebook containing the code used to identify thermodynamically stable (i.e., "on the hull") candidate materials from the Materials Project. These candidate materials were further filtered and targeted by our A-lab study.
 
 `Target_screening_revisions.ipynb` is a condensed version of the above notebook with support for identifying metastable targets, as demonstrated with a <0.050 eV/atom above hull cutoff.
 
